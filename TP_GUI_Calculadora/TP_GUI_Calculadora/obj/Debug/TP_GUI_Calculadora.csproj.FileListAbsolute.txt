@@ -1,0 +1,22 @@
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\bin\Debug\TP_GUI_Calculadora.exe.config
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\bin\Debug\TP_GUI_Calculadora.exe
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\bin\Debug\TP_GUI_Calculadora.pdb
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.Calculadora.resources
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.exe
+C:\Users\kevin\OneDrive\Escritorio\programacion gui 1\practica ejercicios\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.pdb
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\bin\Debug\TP_GUI_Calculadora.exe.config
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\bin\Debug\TP_GUI_Calculadora.exe
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\bin\Debug\TP_GUI_Calculadora.pdb
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.Calculadora.resources
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.exe
+C:\Users\kevin\OneDrive\Escritorio\TP_GUI_Calculadora\TP_GUI_Calculadora\obj\Debug\TP_GUI_Calculadora.pdb
